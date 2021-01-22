@@ -45,7 +45,7 @@ the remaining three components can be obtained due to symmetric nature of stress
 Q2: Write a python code or use in-build python functions to use a continuous Fourier series to
 approximate the wave form shown in Fig. 1.
 
-![](2graph.png)
+![](images/2graph.png)
 
 
 Q3: The work equation is given as function of force F(x) and angle θ(x) between force and the distance
