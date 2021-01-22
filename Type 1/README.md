@@ -23,3 +23,8 @@ f) Compute the transpose of mat1
 g) Compute the determinant of mat1
 
 h) Compute the trace of mat1.
+
+
+
+Q.2: Write a program to extract first and third elements of both the first and third rows from a given
+(4x4) array made with random values. Also find the minimum and maximum elements in this 4x4 array.
