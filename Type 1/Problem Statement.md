@@ -1,9 +1,10 @@
 Q.1 In python, define the vector vec1 with size (1x3) and matrices mat1 with size (3x3) as:
 
-vec1 = [-1 4 -9]
-mat1 = [1 3 5 ]
-       [7 -9 2]
-       [4  6 8]
+       vec1 = [-1 4 -9]
+       
+       mat1 = [1 3 5 ]
+              [7 -9 2]
+              [4  6 8]
 
 and perform following operations.
 
