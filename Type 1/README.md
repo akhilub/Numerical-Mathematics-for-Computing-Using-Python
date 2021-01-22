@@ -44,3 +44,24 @@ Q.4. Evaluate e <sup>-5</sup> using two approaches
 a) e <sup>-5</sup> = 1 − x + x <sup>2</sup>/2! - x <sup>2</sup>/3!+...
 
 b) e <sup>-5</sup> = 1/e <sup>x</sup> = 1 /( 1 − x + x <sup>2</sup>/2! - x <sup>2</sup>/3!+...)
+
+and compare with the true value of e<sup>-5</sup> = 6.737947 × 10−3 for each case. 
+
+Use 20 terms to evaluate each series and compute true (εt %) and approximate relative
+(εa %) errors as terms are added one-by-one. Assume 7 significant figures (n) in the
+approximation to calculate εs = (0.5 × 102−n)%.
+
+I. The results are to be presented in a tabular form for case (a) and case (b) showing
+“Term no” in first column, “Term value” in second column, “True relative error
+(%)” in third column and “Approximate relative error (%)” in fourth column.
+
+
+II. Plot the variation of εt % for case (a) and case (b) Versus “Term no” in a single
+plot. Use blue color line to represent case (a) results and red color line to
+represent case (b) results. Mark the legends for red line as “Case (a)” and for blue
+line as “Case (b)”. The xlabel for the plot should be “Term no” and ylabel for this
+plot should be “True relative error (%)”.
+
+
+III. Plot the variation of εa % for case (a) and case (b) Versus “Term no” in a single
+plot. Use blue color line to represent case (a) results and red color line to
