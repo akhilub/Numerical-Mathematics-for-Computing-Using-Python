@@ -8,7 +8,7 @@ where the diagonal terms represent tensile or compressive stresses and the off-d
 shear stresses. A stress field is given by
       
       σ = [10 14 25]
-          [14 7 15 ] × 10 <sup>6</sup>               (2)
+          [14 7 15 ] × 10 <sup>6</sup>            (2)  \int_{i=1}^n
           [25 15 16] 
 .
 
