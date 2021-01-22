@@ -47,12 +47,10 @@ approximate the wave form shown in Fig. 1.
 
 <img src= "images/2graph.png" width="500">
 
-![](images/2graph.png)
-
-
 Q3: The work equation is given as function of force F(x) and angle θ(x) between force and the distance
 of movement (x) as:
 
-                                       (4)
+<img src= "images/3eq.png" width="500">                      (4)
+                                      
 where xo and xn is taken as 0 and 30 respectively. The F(x) and angle θ(x) variation with respect to
 distance of movement (x) is given by following two equations as:
