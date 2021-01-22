@@ -68,7 +68,7 @@ equation (4) using simpson's 1/3 rule.
 (c) Extend the python code developed in (b) or use in-build python functions to compute the integral in
 equation (4) using Romberg integration to εs=0.5%.
 
-(d) Extend the matlab code developed in (b) or use in-build python functions to compute the integral in
+(d) Extend the python code developed in (b) or use in-build python functions to compute the integral in
 equation (iv) using gauss quadrature.
 
 At the end your code should print values of integral in following format:
@@ -82,5 +82,4 @@ Trapezoidal 16: integration value
 Simpson1/3: integration value
 
 Romberg: integration value
-
 Quadrature: integration value
