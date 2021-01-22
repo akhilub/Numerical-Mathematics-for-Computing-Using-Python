@@ -8,7 +8,7 @@ where the diagonal terms represent tensile or compressive stresses and the off-d
 shear stresses. A stress field is given by
       
       σ = [10 14 25]
-          [14 7 15 ] × 10^6          (2)  
+          [14 7 15 ] × 10^6                       (2)  
           [25 15 16] 
 .
 
@@ -17,7 +17,7 @@ Principal stresses (σ1, σ2, σ3 ) are known to be the three eigen values of st
 stress tensor σ, it is essential to construct the following matrix
 
          [10 − σ    14        25    ]
-         [  14    7 − σ       15    ]× 10^6
+         [  14    7 − σ       15    ] × 10^6
          [  25     15      16 − σ   ] 
 .
 
@@ -40,3 +40,5 @@ learnt by making a its python code. An inequality of the form σ1 > σ2 > σ3 is
 first principal stress (σ1), second principal stress (σ2) and third principal stress (σ3). This python code
 should ask the user to input value of 6 components σxx, σyy,σzz, σxy, σxz and σyz of stress tensor, while
 the remaining three components can be obtained due to symmetric nature of stress tensor.
+
+
