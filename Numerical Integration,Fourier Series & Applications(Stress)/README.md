@@ -50,11 +50,12 @@ approximate the wave form shown in Fig. 1.
 Q3: The work equation is given as function of force F(x) and angle θ(x) between force and the distance
 of movement (x) as:
 
-<img src= "images/3eq.png" width="500">                      (4)
+<img src= "images/3eq.png" width="500">        (4)
                                       
 where xo and xn is taken as 0 and 30 respectively. The F(x) and angle θ(x) variation with respect to
 distance of movement (x) is given by following two equations as:
 
 F(x)= 1.6x-0.045x<sup>2</sup>
+
 θ(x)= 0.8 + 0.125x -0.009x<sup>2</sup> + 0.0002x<sup>3</sup>
 
