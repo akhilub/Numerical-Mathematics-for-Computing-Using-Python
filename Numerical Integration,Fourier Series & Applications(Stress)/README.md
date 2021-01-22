@@ -27,9 +27,9 @@ Such that σ1, σ2, σ3 can be solved from the equation
 
 where
 
-I = σxx + σyy + σzz
+I = σ<sub>xx</sub> + σ<sub>yy</sub> + σ<sub>zz</sub>
 
-II = σxxσyy + σxxσzz + σyyσzz − σ<sup>2</sup><sub>xy</sub> − σ<sup>2</sup><sub>xz</sub> − σ<sup>2</sup><sub>yz</sub>
+II = σ<sub>xx</sub>σ<sub>yy</sub> + σ<sub>xx</sub>σ<sub>zz</sub> + σ<sub>yy</sub>σ<sub>zz</sub> − σ<sup>2</sup><sub>xy</sub> − σ<sup>2</sup><sub>xz</sub> − σ<sup>2</sup><sub>yz</sub>
 
 III = σ<sub>xx</sub>σ<sub>yy</sub>σ<sub>zz</sub> − σ<sub>xx</sub>σ<sup>2</sup><sub>yz</sub> − σ<sub>yy</sub>σ<sup>2</sup><sub>xz</sub> − σ<sub>zz</sub>σ<sup>2</sup><sub>xy</sub> + 2σ<sub>xy</sub>σ<sub>xz</sub>σ<sub>yz</sub>.
 
