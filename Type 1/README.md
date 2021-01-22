@@ -41,7 +41,7 @@ function along y-axis.
 
 Q.4. Evaluate e <sup>-5</sup> using two approaches
 
-a) e <sup>-5</sup> = 1 − x + x <sup>2</sup>/2! -x^3/3!+...
+a) e <sup>-5</sup> = 1 − x + \frac{x <sup>2</sup>\2!} -x^3/3!+...
 
 
 b) e
