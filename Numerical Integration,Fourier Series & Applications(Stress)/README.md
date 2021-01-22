@@ -23,7 +23,7 @@ stress tensor σ, it is essential to construct the following matrix
 
 Such that σ1, σ2, σ3 can be solved from the equation
 
-σ<sup>3</sup> − Iσ<sup>2</sup> + IIσ − III = 0    &nbsp;                          (3)
+σ<sup>3</sup> − Iσ<sup>2</sup> + IIσ − III = 0    &nbsp; &nbsp;&nbsp;&nbsp;                          (3)
 
 where
 
