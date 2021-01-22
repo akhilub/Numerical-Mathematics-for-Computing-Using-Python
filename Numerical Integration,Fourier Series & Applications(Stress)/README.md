@@ -29,11 +29,9 @@ where
 
 I = σxx + σyy + σzz
 
-II = σxxσyy + σxxσzz + σyyσzz − σ<sup>2</sup><sub>xy</sub> − σ<sup>2</sup><sub>xz</sub> − σ<sup>2</sup><sup>yz</sup>
+II = σxxσyy + σxxσzz + σyyσzz − σ<sup>2</sup><sub>xy</sub> − σ<sup>2</sup><sub>xz</sub> − σ<sup>2</sup><sub>yz</sub>
 
-III = σxxσyyσzz − σxxσyz
-
-2 − σyyσxz
+III = σ<sub>xx</sub>σ<sub>yy</sub>σ<sub>zz</sub> − σ<sub>xx</sub>σ<sup>2</sup><sub>yz</sub> − σyyσxz
 
 2 − σzzσxy
 
