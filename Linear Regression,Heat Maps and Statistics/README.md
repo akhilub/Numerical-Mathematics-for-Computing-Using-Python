@@ -15,7 +15,7 @@ correlation coefficients between X1, X2 and X3 (taught in class on 23/10/19).
 1.3 Recompute the regression in Q1.1 but use the matrix approach to compute the
 coefficients, the standard error of estimates, coefficient of variation and correlation
 coefficients between X1, X2 and X3. In addition, compute the 95% confidence
-interval of coefficients using t,2,n-1 statistics from the in-build function in python.
+interval of coefficients using t\alpha,2,n-1 statistics from the in-build function in python.
 Mention the true relative error in coefficients, the standard error of estimates,
 coefficient of variation and correlation coefficients obtained using matrix approach
 where the true values can be taken as the one calculated using in-build functions in
