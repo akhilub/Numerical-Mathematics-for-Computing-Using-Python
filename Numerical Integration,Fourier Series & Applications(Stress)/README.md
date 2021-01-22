@@ -54,3 +54,6 @@ of movement (x) as:
                                       
 where xo and xn is taken as 0 and 30 respectively. The F(x) and angle θ(x) variation with respect to
 distance of movement (x) is given by following two equations as:
+
+                F(x)= 1.6x-0.045x<sup>2</sup>
+
