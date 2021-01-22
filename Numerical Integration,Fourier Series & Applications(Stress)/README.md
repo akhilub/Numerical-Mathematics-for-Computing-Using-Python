@@ -61,17 +61,26 @@ F(x)= 1.6x-0.045x<sup>2</sup>
 
 (a) Make a python code or use in-build python functions to compute the integral in equation (4) using
 4-, 8- and 16- segment trapezoidal rules.
+
 (b) Extend the python code developed in (a) or use in-build python functions to compute the integral in
 equation (4) using simpson's 1/3 rule.
+
 (c) Extend the python code developed in (b) or use in-build python functions to compute the integral in
 equation (4) using Romberg integration to εs=0.5%.
+
 (d) Extend the matlab code developed in (b) or use in-build python functions to compute the integral in
 equation (iv) using gauss quadrature.
+
 At the end your code should print values of integral in following format:
---
+
 Trapezoidal 4: integration value
+
 Trapezoidal 8: integration value
+
 Trapezoidal 16: integration value
+
 Simpson1/3: integration value
+
 Romberg: integration value
+
 Quadrature: integration value
