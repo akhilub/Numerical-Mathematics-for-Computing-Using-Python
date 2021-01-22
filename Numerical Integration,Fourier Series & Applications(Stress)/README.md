@@ -16,9 +16,9 @@ shear stresses. A stress field is given by
 Principal stresses (σ1, σ2, σ3 ) are known to be the three eigen values of stress tensor σ. For any given
 stress tensor σ, it is essential to construct the following matrix
 
-         [10 − σ 14 25]
-         [14 7 − σ 15 ]× 10^6
-         [25 15 16 − σ] 
+         [10 − σ    14        25    ]
+         [  14    7 − σ       15    ]× 10^6
+         [  25     15      16 − σ   ] 
 .
 
 Such that σ1, σ2, σ3 can be solved from the equation
