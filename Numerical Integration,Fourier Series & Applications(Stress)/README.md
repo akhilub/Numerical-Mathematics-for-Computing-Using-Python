@@ -49,6 +49,6 @@ approximate the wave form shown in Fig. 1.
 Q3: The work equation is given as function of force F(x) and angle θ(x) between force and the distance
 of movement (x) as:
 
-              $\int_0^1 x^2\,dx$                          (4)
+                                       (4)
 where xo and xn is taken as 0 and 30 respectively. The F(x) and angle θ(x) variation with respect to
 distance of movement (x) is given by following two equations as:
