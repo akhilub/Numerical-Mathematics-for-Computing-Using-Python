@@ -45,6 +45,7 @@ the remaining three components can be obtained due to symmetric nature of stress
 Q2: Write a python code or use in-build python functions to use a continuous Fourier series to
 approximate the wave form shown in Fig. 1.
 
+❮img src="images/2graph.png" width="100" ❯
 ![](images/2graph.png)
 
 
