@@ -8,7 +8,7 @@ in python, use the multilinear regression to fit:
 X1 = a0 + a1 * X2 + a2 * X3 + e
 
 and compute the coefficients, the standard error of estimates, coefficient of variation and
-correlation coefficients between X1, X2 and X3 (taught in class on 23/10/19).
+correlation coefficients between X1, X2 and X3.
 
 1.2 Plot the obtained regression model in Q1.1 in 3D.
 
