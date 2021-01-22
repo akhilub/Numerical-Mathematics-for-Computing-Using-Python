@@ -39,11 +39,9 @@ This plot should have clearly labelled x- & y- axis showing the variable name al
 function along y-axis.
 
 
-Q.4. Evaluate e
+Q.4. Evaluate e <sup>-5</sup> using two approaches
 
-−5 using two approaches
-
-a) e^−5 = 1 − x + x^2/2! -x^3/3!+...
+a) e <sup>-5</sup> = 1 − x + x <sup>2</sup>/2! -x^3/3!+...
 
 
 b) e
