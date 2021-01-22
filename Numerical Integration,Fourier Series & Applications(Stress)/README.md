@@ -8,7 +8,7 @@ where the diagonal terms represent tensile or compressive stresses and the off-d
 shear stresses. A stress field is given by
       
       σ = [10 14 25]
-          [14 7 15 ] × 10 <sup>6</sup>            (2)  \int_{i=1}^n   https://wikimedia.org/api/rest_v1/media/math/render/svg/63a65bfee62cdfc4b050848a6914ad0d09b3f817
+          [14 7 15 ] × 10^6          (2)  
           [25 15 16] 
 .
 
@@ -16,4 +16,31 @@ shear stresses. A stress field is given by
 Principal stresses (σ1, σ2, σ3 ) are known to be the three eigen values of stress tensor σ. For any given
 stress tensor σ, it is essential to construct the following matrix
 
-10 <sup>6</sup> 
+         [10 − σ 14 25]
+         [14 7 − σ 15 ]× 10^6
+         [25 15 16 − σ] 
+.
+
+Such that σ1, σ2, σ3 can be solved from the equation
+
+σ<sup>3<\sup> − Iσ<sup>2<\sup> + IIσ − III = 0                 (3)
+
+where
+I = σxx + σyy + σzz
+II = σxxσyy + σxxσzz + σyyσzz − σ<sup>2<\sup>xy − σ<sup>2<\sup>xz − σ<sup>2<\sup>yz
+
+III = σxxσyyσzz − σxxσyz
+
+2 − σyyσxz
+
+2 − σzzσxy
+
+2 + 2σxyσxzσyz.
+
+I,II,III are known as first invariant, second invariant and third invariant of stress tensor. For a given
+stress tensor σ in Equation (2), find the three roots of Equation (3) as first principal stress (σ1), second
+principal stress (σ2) and third principal stress (σ3) using any of the root finding technique you have
+learnt by making a its python code. An inequality of the form σ1 > σ2 > σ3 is considered to decide the
+first principal stress (σ1), second principal stress (σ2) and third principal stress (σ3). This python code
+should ask the user to input value of 6 components σxx, σyy,σzz, σxy, σxz and σyz of stress tensor, while
+the remaining three components can be obtained due to symmetric nature of stress tensor.
