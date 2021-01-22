@@ -26,8 +26,10 @@ Such that σ1, σ2, σ3 can be solved from the equation
 σ<sup>3</sup> − Iσ<sup>2</sup> + IIσ − III = 0                 (3)
 
 where
+
 I = σxx + σyy + σzz
-II = σxxσyy + σxxσzz + σyyσzz − σ<sup>2<\sup>xy − σ<sup>2<\sup>xz − σ<sup>2<\sup>yz
+
+II = σxxσyy + σxxσzz + σyyσzz − σ<sup>2</sup>xy − σ<sup>2</sup>xz − σ<sup>2</sup>yz
 
 III = σxxσyyσzz − σxxσyz
 
