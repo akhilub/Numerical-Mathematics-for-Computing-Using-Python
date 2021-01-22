@@ -31,11 +31,7 @@ I = σxx + σyy + σzz
 
 II = σxxσyy + σxxσzz + σyyσzz − σ<sup>2</sup><sub>xy</sub> − σ<sup>2</sup><sub>xz</sub> − σ<sup>2</sup><sub>yz</sub>
 
-III = σ<sub>xx</sub>σ<sub>yy</sub>σ<sub>zz</sub> − σ<sub>xx</sub>σ<sup>2</sup><sub>yz</sub> − σyyσxz
-
-2 − σzzσxy
-
-2 + 2σxyσxzσyz.
+III = σ<sub>xx</sub>σ<sub>yy</sub>σ<sub>zz</sub> − σ<sub>xx</sub>σ<sup>2</sup><sub>yz</sub> − σyyσ<sup>2</sup><sub>xz</sub> − σzzσ<sup>2</sup><sub>xy</sub> + σxyσxzσyz.
 
 I,II,III are known as first invariant, second invariant and third invariant of stress tensor. For a given
 stress tensor σ in Equation (2), find the three roots of Equation (3) as first principal stress (σ1), second
