@@ -64,4 +64,8 @@ plot should be “True relative error (%)”.
 
 
 III. Plot the variation of εa % for case (a) and case (b) Versus “Term no” in a single
-plot. Use blue color line to represent case (a) results and red color line to
+plot. Use blue color line to represent case (a) results and red color line to represent case (b) results. 
+Mark the legends for red line as “Case (a)” and for blue line as “Case (b)”. The xlabel for the plot should be “Term no” and ylabel for this
+plot should be “Approximate relative error (%)”.
+
+IV. Find how many terms are required for εa < εsfor both cases.
