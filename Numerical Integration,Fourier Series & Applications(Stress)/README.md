@@ -42,3 +42,13 @@ should ask the user to input value of 6 components σxx, σyy,σzz, σxy, σxz a
 the remaining three components can be obtained due to symmetric nature of stress tensor.
 
 
+Q2: Write a python code or use in-build python functions to use a continuous Fourier series to
+approximate the wave form shown in Fig. 1.
+
+
+Q3: The work equation is given as function of force F(x) and angle θ(x) between force and the distance
+of movement (x) as:
+
+                                        (4)
+where xo and xn is taken as 0 and 30 respectively. The F(x) and angle θ(x) variation with respect to
+distance of movement (x) is given by following two equations as:
