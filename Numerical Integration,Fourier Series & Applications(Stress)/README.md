@@ -101,7 +101,7 @@ this plot are the two material constants, respectively. The following table cont
 for heart chordae tendineae (small tendons use to hold heart valves closed during contraction of the
 heart muscle). This is data from loading the tissue; different curves are produced on unloading.
 
-<img src= "images/4table.png" width="500">
+<img src= "images/4table.png" width="1000">
 
 (a) Calculate the derivative dσ/dε using finite differences (using inbuilt function of python) that are second-
 order accurate. Plot the data and eliminate the data points near the zero points that appear not to follow the
