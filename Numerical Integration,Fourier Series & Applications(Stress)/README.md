@@ -29,7 +29,7 @@ where
 
 I = σxx + σyy + σzz
 
-II = σxxσyy + σxxσzz + σyyσzz − σ<sup>2</sup><sub>xy</sub> − σ<sup>2</sup>xz − σ<sup>2</sup>yz
+II = σxxσyy + σxxσzz + σyyσzz − σ<sup>2</sup><sub>xy</sub> − σ<sup>2</sup><sub>xz</sub> − σ<sup>2</sup><sup>yz</sup>
 
 III = σxxσyyσzz − σxxσyz
 
