@@ -33,7 +33,7 @@ Q.2: Write a program to extract first and third elements of both the first and t
 Q.3. Create a row vector called meshPoints containing exactly 500 values with values evenly spaced
 between -1 and 1.
 a) Print the value of the 53th element of meshPoints?
-b) Produce a plot of sin(x) between -2*pi and 2*pi having 500 data point in between by using
+b) Produce a plot of sin(x) between -2π and 2π having 500 data point in between by using
 meshPoints vector.
 This plot should have clearly labelled x- & y- axis showing the variable name along x-axis and
 function along y-axis.
