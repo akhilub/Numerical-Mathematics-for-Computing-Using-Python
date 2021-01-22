@@ -43,6 +43,8 @@ Q.4. Evaluate e <sup>-5</sup> using two approaches
 
 a) e <sup>-5</sup> = 1 − x + x <sup>2</sup>/2! - x <sup>2</sup>/3!+...
 
+$$x_{1,2} = \frac{-b \pm \sqrt{b^2-4ac}}{2b}.$$
+
 
 b) e
 −5 =
