@@ -68,4 +68,4 @@ plot. Use blue color line to represent case (a) results and red color line to re
 Mark the legends for red line as “Case (a)” and for blue line as “Case (b)”. The xlabel for the plot should be “Term no” and ylabel for this
 plot should be “Approximate relative error (%)”.
 
-IV. Find how many terms are required for εa < εsfor both cases.
+IV. Find how many terms are required for ε<sub>a</sub> < ε<sub>s</sub>for both cases.
