@@ -43,4 +43,6 @@ Q.4. Evaluate e <sup>-5</sup> using two approaches
 
 a) e <sup>-5</sup> = 1 − x + x <sup>2</sup>/2! - x <sup>2</sup>/3!+...
 
-b) \frac{n!}{k!(n-k)!}
+              b) $$
+                 \frac{n!}{k!(n-k)!} = {n \choose k}
+                 $$
